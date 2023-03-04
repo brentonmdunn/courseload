@@ -1,0 +1,43 @@
+{
+  "department": "CSE",
+  "course_code": "140",
+  "class_section_code": "A00",
+  "section_code": "A00",
+  "instructor": "Eldon",
+  "category": "LE",
+  "days": "MWF",
+  "start_time": "13:00",
+  "end_time": "13:50",
+  "building": "PETER",
+  "room": "110",
+  "disc_num": 1,
+  "midterm": false,
+  "discussions": [
+    {
+      "department": "CSE",
+      "course_code": "",
+      "class_section_code": "",
+      "section_code": "A01",
+      "instructor": "",
+      "category": "DI",
+      "days": "T",
+      "start_time": "5:00",
+      "end_time": "5:50",
+      "building": "RCLAS",
+      "room": "R04"
+    },
+    {
+      "department": "CSE",
+      "course_code": "",
+      "class_section_code": "",
+      "section_code": "3/24/2023",
+      "instructor": "",
+      "category": "FI",
+      "days": "F",
+      "start_time": "11:30",
+      "end_time": "2:29",
+      "building": "TBA",
+      "room": ""
+    }
+  ]
+}

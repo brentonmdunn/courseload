@@ -1,0 +1,43 @@
+{
+  "department": "CSE",
+  "course_code": "12",
+  "class_section_code": "B00",
+  "section_code": "B00",
+  "instructor": "Cao",
+  "category": "LE",
+  "days": "MWF",
+  "start_time": "11:00",
+  "end_time": "11:50",
+  "building": "CTL",
+  "room": "0125",
+  "disc_num": 1,
+  "midterm": false,
+  "discussions": [
+    {
+      "department": "CSE",
+      "course_code": "",
+      "class_section_code": "",
+      "section_code": "B01",
+      "instructor": "",
+      "category": "DI",
+      "days": "M",
+      "start_time": "4:00",
+      "end_time": "4:50",
+      "building": "WLH",
+      "room": "2001"
+    },
+    {
+      "department": "CSE",
+      "course_code": "",
+      "class_section_code": "",
+      "section_code": "3/18/2023",
+      "instructor": "",
+      "category": "FI",
+      "days": "S",
+      "start_time": "8:00",
+      "end_time": "10:59",
+      "building": "TBA",
+      "room": ""
+    }
+  ]
+}

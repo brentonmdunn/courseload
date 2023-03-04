@@ -1,0 +1,43 @@
+{
+  "department": "CSE",
+  "course_code": "130",
+  "class_section_code": "A00",
+  "section_code": "A00",
+  "instructor": "Borkowski",
+  "category": "LE",
+  "days": "MWF",
+  "start_time": "15:00",
+  "end_time": "15:50",
+  "building": "PCYNH",
+  "room": "106",
+  "disc_num": 1,
+  "midterm": false,
+  "discussions": [
+    {
+      "department": "CSE",
+      "course_code": "",
+      "class_section_code": "",
+      "section_code": "A01",
+      "instructor": "",
+      "category": "DI",
+      "days": "M",
+      "start_time": "4:00",
+      "end_time": "4:50",
+      "building": "PCYNH",
+      "room": "106"
+    },
+    {
+      "department": "CSE",
+      "course_code": "",
+      "class_section_code": "",
+      "section_code": "3/22/2023",
+      "instructor": "",
+      "category": "FI",
+      "days": "W",
+      "start_time": "3:00",
+      "end_time": "5:59",
+      "building": "TBA",
+      "room": ""
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "department": "CSE",
+  "course_code": "105",
+  "class_section_code": "A00",
+  "section_code": "A00",
+  "instructor": "Jones",
+  "category": "LE",
+  "days": "TTh",
+  "start_time": "11:00",
+  "end_time": "24:20",
+  "building": "PETER",
+  "room": "108",
+  "disc_num": 1,
+  "midterm": false,
+  "discussions": [
+    {
+      "department": "CSE",
+      "course_code": "",
+      "class_section_code": "",
+      "section_code": "A01",
+      "instructor": "",
+      "category": "DI",
+      "days": "W",
+      "start_time": "2:00",
+      "end_time": "2:50",
+      "building": "YORK",
+      "room": "2722"
+    },
+    {
+      "department": "CSE",
+      "course_code": "",
+      "class_section_code": "",
+      "section_code": "3/23/2023",
+      "instructor": "",
+      "category": "FI",
+      "days": "Th",
+      "start_time": "11:30",
+      "end_time": "2:29",
+      "building": "TBA",
+      "room": ""
+    }
+  ]
+}

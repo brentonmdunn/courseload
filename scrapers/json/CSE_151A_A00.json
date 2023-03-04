@@ -1,0 +1,43 @@
+{
+  "department": "CSE",
+  "course_code": "151A",
+  "class_section_code": "A00",
+  "section_code": "A00",
+  "instructor": "Dasgupta",
+  "category": "LE",
+  "days": "TTh",
+  "start_time": "24:30",
+  "end_time": "13:50",
+  "building": "CENTR",
+  "room": "105",
+  "disc_num": 1,
+  "midterm": false,
+  "discussions": [
+    {
+      "department": "CSE",
+      "course_code": "",
+      "class_section_code": "",
+      "section_code": "A01",
+      "instructor": "",
+      "category": "DI",
+      "days": "F",
+      "start_time": "1:00",
+      "end_time": "1:50",
+      "building": "CENTR",
+      "room": "214"
+    },
+    {
+      "department": "CSE",
+      "course_code": "",
+      "class_section_code": "",
+      "section_code": "3/21/2023",
+      "instructor": "",
+      "category": "FI",
+      "days": "T",
+      "start_time": "11:30",
+      "end_time": "2:29",
+      "building": "TBA",
+      "room": ""
+    }
+  ]
+}

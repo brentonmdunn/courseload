@@ -1,0 +1,82 @@
+{
+  "department": "CSE",
+  "course_code": "160",
+  "class_section_code": "A00",
+  "section_code": "A00",
+  "instructor": "Kastner",
+  "category": "LE",
+  "days": "TTh",
+  "start_time": "11:00",
+  "end_time": "24:20",
+  "building": "SOLIS",
+  "room": "104",
+  "disc_num": 4,
+  "midterm": false,
+  "discussions": [
+    {
+      "department": "CSE",
+      "course_code": "",
+      "class_section_code": "",
+      "section_code": "A01",
+      "instructor": "",
+      "category": "DI",
+      "days": "F",
+      "start_time": "2:00",
+      "end_time": "2:50",
+      "building": "CENTR",
+      "room": "105"
+    },
+    {
+      "department": "CSE",
+      "course_code": "",
+      "class_section_code": "",
+      "section_code": "A50",
+      "instructor": "",
+      "category": "LA",
+      "days": "W",
+      "start_time": "9:00",
+      "end_time": "11:50",
+      "building": "EBU3B",
+      "room": "B240"
+    },
+    {
+      "department": "CSE",
+      "course_code": "",
+      "class_section_code": "",
+      "section_code": "A51",
+      "instructor": "",
+      "category": "LA",
+      "days": "W",
+      "start_time": "12:00",
+      "end_time": "2:50",
+      "building": "EBU3B",
+      "room": "B240"
+    },
+    {
+      "department": "CSE",
+      "course_code": "",
+      "class_section_code": "",
+      "section_code": "A52",
+      "instructor": "",
+      "category": "LA",
+      "days": "W",
+      "start_time": "3:00",
+      "end_time": "5:50",
+      "building": "EBU3B",
+      "room": "B240"
+    },
+    {
+      "department": "CSE",
+      "course_code": "",
+      "class_section_code": "",
+      "section_code": "3/23/2023",
+      "instructor": "",
+      "category": "FI",
+      "days": "Th",
+      "start_time": "11:30",
+      "end_time": "2:29",
+      "building": "TBA",
+      "room": ""
+    }
+  ]
+}

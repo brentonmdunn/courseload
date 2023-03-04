@@ -1,0 +1,43 @@
+{
+  "department": "CSE",
+  "course_code": "181",
+  "class_section_code": "A00",
+  "section_code": "A00",
+  "instructor": "Pevzner",
+  "category": "LE",
+  "days": "MW",
+  "start_time": "17:00",
+  "end_time": "18:20",
+  "building": "CSB",
+  "room": "002",
+  "disc_num": 1,
+  "midterm": false,
+  "discussions": [
+    {
+      "department": "CSE",
+      "course_code": "",
+      "class_section_code": "",
+      "section_code": "A01",
+      "instructor": "",
+      "category": "DI",
+      "days": "F",
+      "start_time": "3:00",
+      "end_time": "3:50",
+      "building": "CSB",
+      "room": "002"
+    },
+    {
+      "department": "CSE",
+      "course_code": "",
+      "class_section_code": "",
+      "section_code": "3/20/2023",
+      "instructor": "",
+      "category": "FI",
+      "days": "M",
+      "start_time": "7:00",
+      "end_time": "9:59",
+      "building": "TBA",
+      "room": ""
+    }
+  ]
+}
