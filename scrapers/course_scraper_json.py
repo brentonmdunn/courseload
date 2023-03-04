@@ -56,6 +56,7 @@ with open('coursedata.csv', 'w', encoding='utf8', newline='') as f:
         soup = BeautifulSoup(page.content, "html.parser")
 
         # A bunch of variables, not all are used. For discussions
+        course_id = ''
         dept_code_section = ''
         instructor = ''
         lecture_days = ''
@@ -263,6 +264,9 @@ with open('coursedata.csv', 'w', encoding='utf8', newline='') as f:
         lect_file_name = lect_department + "_" + lect_course_code + \
             "_" + lect_class_section_code + ".json"
 
+        course_id = lect_department + "_" + lect_course_code + \
+            "_" + lect_class_section_code
+
         isDiscussion = False
 
         try:
@@ -275,6 +279,7 @@ with open('coursedata.csv', 'w', encoding='utf8', newline='') as f:
             disc_num = len(discussion_list)-1
 
         lect_this_dict = {
+            "course_id": course_id,
             "department": lect_department,
             "course_code": lect_course_code,
             "class_section_code": lect_class_section_code,
