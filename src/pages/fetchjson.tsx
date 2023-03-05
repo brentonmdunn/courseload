@@ -1,11 +1,4 @@
 import Head from "next/head";
-import {
-  Key,
-  ReactElement,
-  JSXElementConstructor,
-  ReactFragment,
-  ReactPortal,
-} from "react";
 
 const fetchjson = (props: any) => {
   const posts = props.posts;

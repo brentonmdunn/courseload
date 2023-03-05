@@ -1,16 +1,17 @@
-import { useRouter } from "next/router";
+import Head from "next/head";
 
-const CoursePage = (props: any) => {
-  const router = useRouter();
-  const { code } = router.query;
+// https://stackoverflow.com/questions/68405235/how-to-pass-a-parameter-in-getstaticprops-in-nextjs
+
+const CSE8Atest = (props: any) => {
   const department = props.department;
   const course_code = props.course_code;
 
   return (
     <div>
-      <h1>Page</h1>
-      <h3>H3</h3>
-      <p>This should be the code: {code}</p>
+      <h1>CSE 8A</h1>
+      <p>
+        {department} {course_code}
+      </p>
     </div>
   );
 };
@@ -27,4 +28,4 @@ export async function getStaticProps() {
   };
 }
 
-export default CoursePage;
+export default CSE8Atest;
