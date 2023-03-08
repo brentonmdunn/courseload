@@ -9,22 +9,22 @@ const CoursePage = (props: any) => {
   return (
     <div>
       <h1>Page</h1>
-      <h3>H3</h3>
+      <h3>aH3</h3>
       <p>This should be the code: {code}</p>
     </div>
   );
 };
 
-import fsPromises from "fs/promises";
-import path from "path";
-export async function getStaticProps() {
-  const filePath = path.join(process.cwd(), "scrapers/json/CSE_8A_A00.json");
-  const jsonData = await fsPromises.readFile(filePath);
-  const objectData = JSON.parse(jsonData.toString());
+// import fsPromises from "fs/promises";
+// import path from "path";
+// export async function getStaticProps() {
+//   const filePath = path.join(process.cwd(), "scrapers/json/CSE_8A_A00.json");
+//   const jsonData = await fsPromises.readFile(filePath);
+//   const objectData = JSON.parse(jsonData.toString());
 
-  return {
-    props: objectData,
-  };
-}
+//   return {
+//     props: objectData,
+//   };
+// }
 
 export default CoursePage;
