@@ -48,3 +48,5 @@ Recrease the virtual environment:
 ```
  ~ pip install -r requirements.txt
 ```
+
+Every time a PR is requested, GitHub actions will check to see if the build compiles.
