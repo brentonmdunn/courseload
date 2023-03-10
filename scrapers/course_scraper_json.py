@@ -22,6 +22,8 @@ csv_file = pd.read_csv(file_to_open)
 # idk why I add 1 but it undercounts, maybe 0 indexing?
 number_of_lines = len(csv_file) + 1
 
+course_catalog = []
+
 # Iterates through every line in `coursedata.csv`
 for index in range(number_of_lines):
 
@@ -284,9 +286,18 @@ for index in range(number_of_lines):
         "discussions": disc_list
     }
 
+    course_catalog_dict = {
+        "json_name": course_id.replace("_", "")
+    }
+
+    course_catalog.append(course_catalog_dict)
+
     # Moves creates file in working dir then moves file into final directory
     newDirectory = "scrapers/json/" + str(lect_file_name)
 
     with open(lect_file_name, "w") as outfile:
         json.dump(lect_this_dict, outfile, indent=2)
     shutil.move(lect_file_name, newDirectory)
+
+with open("scrapers/json/course_catalog.json", "w") as outfile:
+    json.dump(course_catalog, outfile, indent=2)
