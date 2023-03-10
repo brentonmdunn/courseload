@@ -1,13 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
 body {
   margin: 50px;
+  font-family: "Roboto", sans-serif;
 }
 
 .box {
-  background-color: red;
+  /* background-color: red; */
 }
 
 .query {
-  background-color: goldenrod;
+  background-color: rgb(199, 199, 199);
   margin: 10px 0;
   padding: 10px;
   border-radius: 10px;
