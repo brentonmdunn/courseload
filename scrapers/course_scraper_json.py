@@ -255,8 +255,7 @@ for index in range(number_of_lines):
     lect_file_name = lect_department + "_" + lect_course_code + \
         "_" + lect_class_section_code + ".json"
 
-    course_id = lect_department + "_" + lect_course_code + \
-        "_" + lect_class_section_code
+    course_id = lect_department + lect_course_code + lect_class_section_code
 
     isDiscussion = False
 

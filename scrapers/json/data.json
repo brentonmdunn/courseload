@@ -1,6 +1,6 @@
 [
   {
-    "course_id": "CSE_8A_A00",
+    "course_id": "CSE8AA00",
     "department": "CSE",
     "course_code": "8A",
     "class_section_code": "A00",
@@ -109,7 +109,7 @@
     ]
   },
   {
-    "course_id": "CSE_8B_A00",
+    "course_id": "CSE8BA00",
     "department": "CSE",
     "course_code": "8B",
     "class_section_code": "A00",
@@ -153,7 +153,7 @@
     ]
   },
   {
-    "course_id": "CSE_11_A00",
+    "course_id": "CSE11A00",
     "department": "CSE",
     "course_code": "11",
     "class_section_code": "A00",
@@ -197,7 +197,7 @@
     ]
   },
   {
-    "course_id": "CSE_12_A00",
+    "course_id": "CSE12A00",
     "department": "CSE",
     "course_code": "12",
     "class_section_code": "A00",
@@ -241,7 +241,7 @@
     ]
   },
   {
-    "course_id": "CSE_12_B00",
+    "course_id": "CSE12B00",
     "department": "CSE",
     "course_code": "12",
     "class_section_code": "B00",
@@ -285,7 +285,7 @@
     ]
   },
   {
-    "course_id": "CSE_15L_A00",
+    "course_id": "CSE15LA00",
     "department": "CSE",
     "course_code": "15L",
     "class_section_code": "A00",
@@ -407,7 +407,7 @@
     ]
   },
   {
-    "course_id": "CSE_15L_B00",
+    "course_id": "CSE15LB00",
     "department": "CSE",
     "course_code": "15L",
     "class_section_code": "B00",
@@ -529,7 +529,7 @@
     ]
   },
   {
-    "course_id": "CSE_20_A00",
+    "course_id": "CSE20A00",
     "department": "CSE",
     "course_code": "20",
     "class_section_code": "A00",
@@ -573,7 +573,7 @@
     ]
   },
   {
-    "course_id": "CSE_21_A00",
+    "course_id": "CSE21A00",
     "department": "CSE",
     "course_code": "21",
     "class_section_code": "A00",
@@ -617,7 +617,7 @@
     ]
   },
   {
-    "course_id": "CSE_30_A00",
+    "course_id": "CSE30A00",
     "department": "CSE",
     "course_code": "30",
     "class_section_code": "A00",
@@ -687,7 +687,7 @@
     ]
   },
   {
-    "course_id": "CSE_30_B00",
+    "course_id": "CSE30B00",
     "department": "CSE",
     "course_code": "30",
     "class_section_code": "B00",
@@ -757,7 +757,7 @@
     ]
   },
   {
-    "course_id": "CSE_100_A00",
+    "course_id": "CSE100A00",
     "department": "CSE",
     "course_code": "100",
     "class_section_code": "A00",
@@ -814,7 +814,7 @@
     ]
   },
   {
-    "course_id": "CSE_101_A00",
+    "course_id": "CSE101A00",
     "department": "CSE",
     "course_code": "101",
     "class_section_code": "A00",
@@ -871,7 +871,7 @@
     ]
   },
   {
-    "course_id": "CSE_105_A00",
+    "course_id": "CSE105A00",
     "department": "CSE",
     "course_code": "105",
     "class_section_code": "A00",
@@ -915,7 +915,7 @@
     ]
   },
   {
-    "course_id": "CSE_107_A00",
+    "course_id": "CSE107A00",
     "department": "CSE",
     "course_code": "107",
     "class_section_code": "A00",
@@ -959,7 +959,7 @@
     ]
   },
   {
-    "course_id": "CSE_110_A00",
+    "course_id": "CSE110A00",
     "department": "CSE",
     "course_code": "110",
     "class_section_code": "A00",
@@ -1081,7 +1081,7 @@
     ]
   },
   {
-    "course_id": "CSE_120_A00",
+    "course_id": "CSE120A00",
     "department": "CSE",
     "course_code": "120",
     "class_section_code": "A00",
@@ -1125,7 +1125,7 @@
     ]
   },
   {
-    "course_id": "CSE_120_B00",
+    "course_id": "CSE120B00",
     "department": "CSE",
     "course_code": "120",
     "class_section_code": "B00",
@@ -1169,7 +1169,7 @@
     ]
   },
   {
-    "course_id": "CSE_123_A00",
+    "course_id": "CSE123A00",
     "department": "CSE",
     "course_code": "123",
     "class_section_code": "A00",
@@ -1213,7 +1213,7 @@
     ]
   },
   {
-    "course_id": "CSE_127_A00",
+    "course_id": "CSE127A00",
     "department": "CSE",
     "course_code": "127",
     "class_section_code": "A00",
@@ -1270,7 +1270,7 @@
     ]
   },
   {
-    "course_id": "CSE_130_A00",
+    "course_id": "CSE130A00",
     "department": "CSE",
     "course_code": "130",
     "class_section_code": "A00",
@@ -1314,7 +1314,7 @@
     ]
   },
   {
-    "course_id": "CSE_132A_A00",
+    "course_id": "CSE132AA00",
     "department": "CSE",
     "course_code": "132A",
     "class_section_code": "A00",
@@ -1371,7 +1371,7 @@
     ]
   },
   {
-    "course_id": "CSE_134B_A00",
+    "course_id": "CSE134BA00",
     "department": "CSE",
     "course_code": "134B",
     "class_section_code": "A00",
@@ -1415,7 +1415,7 @@
     ]
   },
   {
-    "course_id": "CSE_140_A00",
+    "course_id": "CSE140A00",
     "department": "CSE",
     "course_code": "140",
     "class_section_code": "A00",
@@ -1459,7 +1459,7 @@
     ]
   },
   {
-    "course_id": "CSE_140L_A00",
+    "course_id": "CSE140LA00",
     "department": "CSE",
     "course_code": "140L",
     "class_section_code": "A00",
@@ -1503,7 +1503,7 @@
     ]
   },
   {
-    "course_id": "CSE_141_A00",
+    "course_id": "CSE141A00",
     "department": "CSE",
     "course_code": "141",
     "class_section_code": "A00",
@@ -1573,7 +1573,7 @@
     ]
   },
   {
-    "course_id": "CSE_141L_A00",
+    "course_id": "CSE141LA00",
     "department": "CSE",
     "course_code": "141L",
     "class_section_code": "A00",
@@ -1617,7 +1617,7 @@
     ]
   },
   {
-    "course_id": "CSE_151A_A00",
+    "course_id": "CSE151AA00",
     "department": "CSE",
     "course_code": "151A",
     "class_section_code": "A00",
@@ -1661,7 +1661,7 @@
     ]
   },
   {
-    "course_id": "CSE_151A_B00",
+    "course_id": "CSE151AB00",
     "department": "CSE",
     "course_code": "151A",
     "class_section_code": "B00",
@@ -1705,7 +1705,7 @@
     ]
   },
   {
-    "course_id": "CSE_152A_A00",
+    "course_id": "CSE152AA00",
     "department": "CSE",
     "course_code": "152A",
     "class_section_code": "A00",
@@ -1749,7 +1749,7 @@
     ]
   },
   {
-    "course_id": "CSE_160_A00",
+    "course_id": "CSE160A00",
     "department": "CSE",
     "course_code": "160",
     "class_section_code": "A00",
@@ -1832,7 +1832,7 @@
     ]
   },
   {
-    "course_id": "CSE_166_A00",
+    "course_id": "CSE166A00",
     "department": "CSE",
     "course_code": "166",
     "class_section_code": "A00",
@@ -1876,7 +1876,7 @@
     ]
   },
   {
-    "course_id": "CSE_167_A00",
+    "course_id": "CSE167A00",
     "department": "CSE",
     "course_code": "167",
     "class_section_code": "A00",
@@ -1985,7 +1985,7 @@
     ]
   },
   {
-    "course_id": "CSE_169_A00",
+    "course_id": "CSE169A00",
     "department": "CSE",
     "course_code": "169",
     "class_section_code": "A00",
@@ -2029,7 +2029,7 @@
     ]
   },
   {
-    "course_id": "CSE_181_A00",
+    "course_id": "CSE181A00",
     "department": "CSE",
     "course_code": "181",
     "class_section_code": "A00",
@@ -2073,7 +2073,7 @@
     ]
   },
   {
-    "course_id": "CSE_190_A00",
+    "course_id": "CSE190A00",
     "department": "CSE",
     "course_code": "190",
     "class_section_code": "A00",

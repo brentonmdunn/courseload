@@ -1,0 +1,18 @@
+body {
+  margin: 50px;
+}
+
+.box {
+  background-color: red;
+}
+
+.query {
+  background-color: goldenrod;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+li {
+  margin-left: 15px;
+}
