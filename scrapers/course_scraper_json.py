@@ -12,7 +12,7 @@ from pathlib import Path
 
 
 count = 1
-file_to_open = "scrapers/courses_CSE.csv"
+file_to_open = "scrapers/courses.csv"
 
 file = open(file_to_open)
 url_list = file.readlines()
@@ -24,6 +24,8 @@ number_of_lines = len(csv_file) + 1
 
 course_catalog = []
 data_arr = []
+
+print("Num line: " + str(number_of_lines))
 
 # Iterates through every line in `coursedata.csv`
 for index in range(number_of_lines):
@@ -106,8 +108,14 @@ for index in range(number_of_lines):
     lect_end_24 = ''
 
     # Scrapes the title of the course
-    lect_dept_code_section = soup.find('h1').text
-    lect_instructor = soup.find('a', id='instructor_HyperLink').text
+    # idk it sometimes can't find an h1
+    try:
+        lect_dept_code_section = soup.find('h1').text
+        lect_instructor = soup.find('a', id='instructor_HyperLink').text
+    except:
+        continue
+
+    print(count)
 
     # Separates long name into specific data
     lect_dept_code_section_split = lect_dept_code_section.split()
@@ -171,7 +179,7 @@ for index in range(number_of_lines):
     try:
         if int(lect_course_code) > 199:
 
-            break
+            continue
     except:
         pass
 
@@ -234,7 +242,7 @@ for index in range(number_of_lines):
             days = days.strip()
 
             disc_details_dict = {
-                "department": "CSE",
+                "department": department,
                 "course_code": course_code,
                 "class_section_code": class_section_code,
                 "section_code": section_code,
@@ -285,6 +293,8 @@ for index in range(number_of_lines):
         "midterm": isMidterm,
         "discussions": disc_list
     }
+
+    # print(course_id)
 
     course_catalog_dict = {
         "json_name": course_id.replace("_", "")
