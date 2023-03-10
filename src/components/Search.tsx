@@ -55,7 +55,7 @@ const Search: React.FC = () => {
           }
 
           return (
-            <div className="query">
+            <div className="query" key={value.course_id}>
               <p>
                 {value.department} {value.course_code}
                 {value.class_section_code} | {value.instructor}
