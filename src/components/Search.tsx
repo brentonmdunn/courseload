@@ -25,7 +25,7 @@ const Search: React.FC = () => {
         <input onChange={handleFilter} type="search" />
       </div>
       <div className="box">
-        {filteredData.map((value: any) => {
+        {filteredData.map((value: any, key: any) => {
           var colonIdxStart = value.start_time.indexOf(":");
           var colonIdxEnd = value.end_time.indexOf(":");
 
@@ -57,7 +57,7 @@ const Search: React.FC = () => {
           return (
             <div className="query">
               <p>
-                {value.department} {value.course_code}{" "}
+                {value.department} {value.course_code}
                 {value.class_section_code} | {value.instructor}
               </p>
               <ul>
